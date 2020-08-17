@@ -1,31 +1,12 @@
+## Random Password Generator
+Can't think of a password right now? Maybe we can help! This very basic random password generator will give a password of any length based on randomly generated numbers. Just flash the program onto your micro:bit and press A to see it in action!
 
-> Open this page at [https://sreyanalla.github.io/random-password-gen/](https://sreyanalla.github.io/random-password-gen/)
+This is simplified implementation that was taught to middle-school girls as part of NSA and NSF's GenCyber Cybersecurity Camp at GWU. It intends to educate students on the importance of maintaining a safe and secure online presence.
 
-## Use as Extension
+## Help build this project ![Build status badge](https://github.com/sreyanalla/random-password-gen/workflows/MakeCode/badge.svg)
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/sreyanalla/random-password-gen** and import
-
-## Edit this project ![Build status badge](https://github.com/sreyanalla/random-password-gen/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
+To make this project your own, open and edit this repository in MakeCode:
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/sreyanalla/random-password-gen** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/sreyanalla/random-password-gen/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
